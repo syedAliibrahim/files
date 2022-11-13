@@ -73,7 +73,7 @@ sbt.addEventListener("click",function () {
       // doc.data() will be undefined in this case
       console.log("No such document!");
     }
-*/      window.location = "index.html"
+*/      window.location = "indexad.html"
 
   })
   .catch((error) => {
